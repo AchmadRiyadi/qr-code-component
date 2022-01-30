@@ -52,11 +52,11 @@ p {
   font-weight: 400;
 }
 
-.attribution {
+footer {
   font-size: 11px;
   text-align: center;
 }
 
-.attribution a {
+a {
   color: hsl(228, 45%, 44%);
 }
